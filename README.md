@@ -1,8 +1,6 @@
 ### Olá 👋
 
 - 🌱 Estudando JavaScript e Python
-- 💬 Atualmente fazendo um MOOC de *DeFi* na UNIC (_University of Nicosia_)
-- ⚡ Entusiasta por programação e WEB 3
 
 <div> 
   <a href="https://instagram.com/patrick.kenji" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
